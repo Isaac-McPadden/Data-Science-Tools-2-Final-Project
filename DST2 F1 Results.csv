@@ -1,0 +1,7 @@
+Description,SGD,RF,KNN,LinSVC,GenSVC
+All Possible Features | Scoring Accuracy | 21 Features,0.181646392,0.094295389,0.140142805,0.095758522,0.069235474
+All Possible Features | Scoring F1 | 21 Features,0.176949392,0.178079146,0.244524918,0.085079039,0.14443831
+Hypothesized Best Features | Scoring F1 | 8 Hypothesized Features,0.101699246,0.130515993,0.195594553,0.041002278,0.24631356
+Recursive Feature Elimination (RFE) | Scoring F1 | 8 RFE Features,0.214429756,0.182777591,0.236734694,0.125792418,0.318400459
+Balanced Target Variable | Scoring F1 | 8 RFE Features,0.774830924,0.775303374,0.763803474,0.70888425,0.72656046
+Balanced Target Variable | Scoring F1 | 5 RFE Features,0.766914327,0.765320381,0.758256818,0.760005464,0.721284223
